@@ -12,7 +12,7 @@
 | :----:        |    :----:   |       :----:    | :----: | :----: |
 | Daniel Dantas      | Windows 11       | Jupyter Notebook   | De acordo com a imagem Docker | Kaggle Notebook |
 | Diego Ramiro   | Windows 11        | Jupyter Notebook      | De acordo com a imagem Docker | Kaggle Notebook |
-| Kaio Sinimbu   | Windows 11        | Jupyter Notebook      | De acordo com a imagem Docker | Kaggle Notebook |
+| Kaio Sinimbu   | Windows 11        | VS Code      | 3.9.7 | Conda |
 
 
 * Todo o código foi desenvolvido usando o recurso de Jupyter Notebook promovido pela Kaggle -> https://www.kaggle.com/docs/notebooks#notebooks
